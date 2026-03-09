@@ -1,4 +1,4 @@
-# 🐱‍👤 Wendell Camilo
+# 👾 Wendell Camilo
 
 **`Desenvolvedor Backend`**
 
